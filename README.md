@@ -3,7 +3,7 @@
 - I can program in C, C++, Go, Rust, react, python but mostly Go
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collab kuorate on artificial intelligence project
-- 📫 How to reach me othie12.github.io/miniport
+- 📫 How to reach me othie12.github.io/potfolio
 
 
 <!---
