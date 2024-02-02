@@ -30,7 +30,7 @@ I'm a passionate software engineer with a diverse skill set. Here are some key d
 - 📬 **Contact:**
   - LinkedIn: [Othieno Simon](https://www.linkedin.com/in/othieno-simon-57a133246)
   - Twitter: [@othienosimon](https://twitter.com/othienosimon3)
-  - Portfolio: [Othieno simon](https://othie12.github.com/potfolio)
+  - Portfolio: [Othieno simon](https://othie12.github.io/potfolio)
 
 Feel free to explore my repositories below and connect with me on social media! 😊
 
