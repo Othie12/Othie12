@@ -28,7 +28,7 @@ I'm a passionate software engineer with a diverse skill set. Here are some key d
   - Always exploring new technologies and best practices to stay up-to-date.
 
 - 📬 **Contact:**
-  - LinkedIn: [Othieno Simon](https://www.linkedin.com/in/othieno-simon)
+  - LinkedIn: [Othieno Simon](https://www.linkedin.com/in/othieno-simon-57a133246)
   - Twitter: [@othienosimon](https://twitter.com/othienosimon3)
   - Portfolio: [Othieno simon](https://othie12.github.com/potfolio)
 
