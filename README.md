@@ -5,20 +5,22 @@ I'm a passionate software engineer with a diverse skill set. Here are some key d
 - 👨‍💻 **Proficient in:**
   - Go
   - PHP (Laravel)
-  - JavaScript (React, Node.js, Express)
+  - JavaScript (React, Node.js, Express, Nestjs)
   - Python
 
 - 🌐 **Web Technologies:**
-  - Frontend: HTML, CSS, JavaScript (ES6+), React
-  - Backend: Node.js, Express, Laravel, gin(golang)
+  - Frontend: HTML, CSS, JavaScript (ES6+), React, Next.js
+  - Backend: Node.js(Nestjs, Express), PHP(Laravel), golang(gin)
 
 - 🖥️ **Other Tech Stack:**
-  - Database: MySQL, PostgreSQL, MongoDB
+  - Database: MySQL, PostgreSQL
   - Version Control: Git
   - DevOps: Docker
 
 - 🚀 **Skills:**
   - Full-stack development
+  - Software design and documentation
+  - Informative respectful communication
   - RESTful API design and development
   - Microservices architecture
   - Unit testing and integration testing
